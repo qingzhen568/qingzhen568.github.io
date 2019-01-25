@@ -5,14 +5,14 @@ baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-templ
 url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
+username: wuQingZHen
+user_title: qingzhen568 - FrontEnd
+email: 743376489@qq.com
+twitter_username: qingzhen568
+github_username:  qingzhen568
+gplus_username:  qingzhen568
+linkedin_public_url: qingzhen568 # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: qingzhen568
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
@@ -32,6 +32,7 @@ links:
   section_1:
     - title: home
       url: /
+      type:recent
       key_trigger: 1
     - title: my posts
       url: /posts
@@ -47,11 +48,11 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: http://www.github.com/qingzhen568
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: http://www.twitter.com/victorvoid
+      url: http://www.twitter.com/qingzhen568
       key_trigger: t
     - title: search
       url: ""
