@@ -246,7 +246,8 @@ mark {
 }
 
 .text-color {
-    color: #0f9d58 !important;
+    /* color: #0f9d58 !important; */
+    color: #ee609c !important;
 }
 
 .white-color {
@@ -258,7 +259,8 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    /* background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%); */
+    background: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
     opacity: 0.8;
 }
 
@@ -1318,7 +1320,8 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%) !important;
+    /* background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%) !important; */
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%) !important;
 }
 
 .chip .tag-length {
@@ -1631,10 +1634,10 @@ thead {
     margin: 0 0.5rem;
     padding: 0;
     color: #fff;
-    border: 1px solid #0f9d58;
-    background: radial-gradient(#4cbf30, #0f9d58);
+    /* border: 1px solid #0f9d58;
+    background: radial-gradient(#4cbf30, #0f9d58); */
     border: 1px solid #ee609c;
-    background: radial-gradient(#4cbf30, #ee609c);
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
     font-size: 0.9rem;
     border-radius: 50%;
     box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
@@ -1810,8 +1813,10 @@ thead {
 
 .other-skills .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
-    border: 1px solid #4cbf30;
+    /* background: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    border: 1px solid #4cbf30; */
+    background-image: linear-gradient(to right, #b8cbb8 0%, #b8cbb8 0%, #b465da 0%, #cf6cc9 33%, #ee609c 66%, #ee609c 100%);
+    border: 1px solid #ee609c;
     box-shadow: 0 5px 5px rgba(0, 0, 0, .25)
 }
 

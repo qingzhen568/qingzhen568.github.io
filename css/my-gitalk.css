@@ -14,8 +14,8 @@
 #gitalk-container .gt-container .gt-btn,
 #gitalk-container .gt-btn-login,
 #gitalk-container .gt-container .gt-header-controls .gt-btn {
-    border: 1px solid #4caf50;
-    background-color: #4caf50;
+    border: 1px solid #ee609c;
+    background-color: #ee609c;
     box-shadow: 0 2px 2px 0 rgba(76, 175, 80, 0.14), 0 3px 1px -2px rgba(76, 175, 80, 0.2), 0 1px 5px 0 rgba(76, 175, 80, 0.12);
 }
 
@@ -25,7 +25,7 @@
 }
 
 #gitalk-container .gt-container .gt-btn-preview {
-    color: #4caf50;
+    color: #ee609c;
     background-color: #fff !important;
     box-shadow: 0 2px 2px 0 rgba(76, 175, 80, 0.14), 0 3px 1px -2px rgba(76, 175, 80, 0.2), 0 1px 5px 0 rgba(76, 175, 80, 0.12);
 }
@@ -37,12 +37,14 @@
 
 #gitalk-container .gt-container .gt-svg svg {
     fill: #42b983;
+    fill: #ee609c;
 }
 
 #gitalk-container .gt-container .gt-header-controls-tip,
 #gitalk-container .gt-container a,
 #gitalk-container .gt-container .gt-comment-username {
     color: #42b983;
+    color: #ee609c;
 }
 
 #gitalk-container .gt-container .gt-ico-text {
